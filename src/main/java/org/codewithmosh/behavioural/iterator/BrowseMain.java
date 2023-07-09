@@ -6,6 +6,7 @@ public class BrowseMain {
         browseHistory.push("google.com");
         browseHistory.push("amazon.com");
         browseHistory.push("redhat.com");
+        browseHistory.push("apple.co.uk");
 
         Iterator iterator = browseHistory.createIterator();
         while (iterator.hasNext()) {
