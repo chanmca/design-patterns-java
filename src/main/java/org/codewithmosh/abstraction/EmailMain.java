@@ -8,5 +8,7 @@ public class EmailMain {
             System.out.println("Email sent successfully");
         else
             System.out.println("Email could not be sent, please try later");
+
+        System.out.println("Email program ends here.");
     }
 }
