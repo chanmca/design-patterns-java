@@ -8,6 +8,7 @@ public class EmailService {
         disconnect();
         return true;
     }
+
     private void connect() {
         System.out.println("Email server connected");
     }
